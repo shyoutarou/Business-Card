@@ -13,13 +13,13 @@ Software Engineer, Invilla
 ## Layout
 
 <div> 
-	<img class="img-author" alt="author"  width="20%" src="https://raw.githubusercontent.com/shyoutarou/Business-Card/master/layout.png">
+	<img class="img-author" alt="author"  width="50%" src="https://raw.githubusercontent.com/shyoutarou/Business-Card/master/layout.png">
 </div>
 
 ## Demo
 
 <div> 
-	<img class="img-author" alt="author"  width="20%" src="https://raw.githubusercontent.com/shyoutarou/Business-Card/master/demo.gif">
+	<img class="img-author" alt="author"  width="100%" src="https://raw.githubusercontent.com/shyoutarou/Business-Card/master/demo.gif">
 </div>
 
 ## <br />Tecnologias utilizadas
