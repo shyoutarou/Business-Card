@@ -4,8 +4,8 @@ Aplicativo de lista de cartão de visita onde é possível manter os dados nome,
 
 CURSO:Criando um App de Cartão de Visitas em Kotlin
 
-<div class="col-md-3"> 
-	<img class="img-author" alt="author" src="https://raw.githubusercontent.com/shyoutarou/Business-Card/master/Igor.jfif">
+<div> 
+	<img class="img-author" alt="author"  width="40%" src="https://raw.githubusercontent.com/shyoutarou/Business-Card/master/Igor.jfif">
 </div>
 INSTRUTOR: Igor Bagliotti
 Software Engineer, Invilla
